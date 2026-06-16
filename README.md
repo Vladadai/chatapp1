@@ -3,7 +3,7 @@
 Käesolev projekt on klient-server rakendus reaalajas tekstisõnumite vahetamiseks. Süsteem toetab kasutajate registreerimist ja autentimist, ühist avalikku jututuba, privaatsõnumite saatmist ning võrgus olevate kasutajate nimekirja kuvamist.
 
 Funktsionaalsed nõuded
-Autentimine: Kasutajal on võimalik registreerida unikaalne kasutajanimi ja logida sisse parooliga.
+###Autentimine:### Kasutajal on võimalik registreerida unikaalne kasutajanimi ja logida sisse parooliga.
 
 Avalik vestlus: Registreeritud kasutajad saavad saata sõnumeid üldisesse kanalisse, mis edastatakse koheselt kõigile osalejatele.
 
